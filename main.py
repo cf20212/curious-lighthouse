@@ -1,5 +1,7 @@
 import os
 
+# One short text, built to leave a question open: a keeper who wrote the
+# same log line for forty-one years, and the single line that answers him.
 TEXT = (
     "The lighthouse keeper wrote the same log entry every night for forty-one "
     "years: 'A ship passed. It did not signal.' In the last logbook, in "
